@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "Id": 1,
+      "id": 1,
       "logo": "https://tech-innovations.io/wp-content/uploads/2022/11/Techinnovations-Logo-Color.png",
       "job_title": "Software Engineer",
       "company_name": "Tech Innovations Inc.",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "Id": 2,
+      "id": 2,
       "logo": "https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_insights_company_profile_powerpoint_presentation_slides_cp_cd_v_slide01.jpg",
       "job_title": "Data Scientist",
       "company_name": "Data Insights Co.",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "Id": 3,
+      "id": 3,
       "logo": "https://fpimages.withfloats.com/tile/5ae0bb228126c407084f0db9.jpg",
       "job_title": "Cybersecurity Analyst",
       "company_name": "SecureTech Solutions",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "Id": 4,
+      "id": 4,
       "logo": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6011706aa3425300017d7517/0x0.png",
       "job_title": "Frontend Developer",
       "company_name": "WebTech Solutions",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "Id": 5,
+      "id": 5,
       "logo": "https://static1.squarespace.com/static/5432d43de4b04e2bb3ff06df/t/5432d893e4b0a7d01075b5e9/1709320913693/",
       "job_title": "Database Administrator",
       "company_name": "DataWorks Inc.",
@@ -126,7 +126,7 @@
       }
     },
     {
-      "Id": 6,
+      "id": 6,
       "logo": "https://www.securitysales.com/wp-content/uploads/2018/08/IPConnect_MKS.jpg",
       "job_title": "Network Engineer",
       "company_name": "NetConnect Solutions",

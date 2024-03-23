@@ -1,8 +1,11 @@
 import { CiLocationOn } from "react-icons/ci";
 import { MdCurrencyExchange } from "react-icons/md";
+import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
-  const { logo, job_title, company_name, location, job_type, salary, remote_or_onsite } = job;
+  const { id, logo, job_title, company_name, location, job_type, salary, remote_or_onsite } = job;
+
+  console.log(id);
   return (
     <div className="card card-compact p-5 bg-base-100 shadow-xl">
       <div className="w-[400px] h-[250px]">
@@ -31,7 +34,9 @@ const Job = ({ job }) => {
         </div>
 
         <div className="card-actions">
-          <button className="btn btn-primary">View Details</button>
+          <Link to={`/details/${id}`}>
+            <button className="btn btn-primary">View Details</button>
+          </Link>
         </div>
       </div>
     </div>
