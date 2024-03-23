@@ -18,6 +18,9 @@ const Applied = () => {
 
   return (
     <div>
+      <div className="h-[400px] flex justify-center items-center bg-blue-200 mb-10">
+        <h1 className="text-5xl">Applied Job</h1>
+      </div>
       {appliedJob.map((job) => (
         <AppliedJob key={job.id} job={job} />
       ))}

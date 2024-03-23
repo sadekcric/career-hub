@@ -13,7 +13,7 @@ const Featured = () => {
   // console.log(data.jobs);
 
   return (
-    <div className="text-center mt-24">
+    <div className="text-center mt-24 mb-24">
       <h3 className="text-5xl">Featured Jobs</h3>
       <p className="text-lg">Explore thousands of job opportunities with all the information you need. Its your future</p>
 
