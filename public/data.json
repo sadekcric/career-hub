@@ -1,0 +1,154 @@
+{
+  "jobs": [
+    {
+      "Id": 1,
+      "logo": "https://tech-innovations.io/wp-content/uploads/2022/11/Techinnovations-Logo-Color.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tech Innovations Inc.",
+      "location": "San Francisco, CA",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Onsite",
+      "salary": "$80,000 - $100,000 per year",
+      "job_description": "We are seeking a talented software engineer to join our dynamic team...",
+      "job_responsibility": [
+        "Develop high-quality software design and architecture",
+        "Identify, prioritize, and execute tasks in the software development life cycle",
+        "Conduct software analysis, programming, testing, and debugging",
+        "Collaborate with internal teams to fix and improve software",
+        "Participate in code reviews"
+      ],
+      "educational_requirement": "Bachelor’s degree in Computer Science or related field",
+      "experience": "2+ years of experience in software development",
+      "contact_information": {
+        "Phone": "+1 (123) 456-7890",
+        "email": "hr@techinnovations.com",
+        "Address": "123 Main St, San Francisco, CA"
+      }
+    },
+    {
+      "Id": 2,
+      "logo": "https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_insights_company_profile_powerpoint_presentation_slides_cp_cd_v_slide01.jpg",
+      "job_title": "Data Scientist",
+      "company_name": "Data Insights Co.",
+      "location": "New York, NY",
+      "job_type": "Remote",
+      "remote_or_onsite": "Remote",
+      "salary": "$90,000 - $120,000 per year",
+      "job_description": "We are looking for a data scientist to analyze large amounts of raw information...",
+      "job_responsibility": [
+        "Identify valuable data sources and automate collection processes",
+        "Undertake preprocessing of structured and unstructured data",
+        "Analyze large amounts of information to discover trends and patterns",
+        "Build predictive models and machine-learning algorithms",
+        "Combine models through ensemble modeling"
+      ],
+      "educational_requirement": "Master’s or PhD in Statistics, Mathematics, Computer Science, or another quantitative field",
+      "experience": "3+ years of experience as a Data Scientist or similar role",
+      "contact_information": {
+        "Phone": "+1 (234) 567-8901",
+        "email": "careers@datainsights.com",
+        "Address": "456 Elm St, New York, NY"
+      }
+    },
+    {
+      "Id": 3,
+      "logo": "https://fpimages.withfloats.com/tile/5ae0bb228126c407084f0db9.jpg",
+      "job_title": "Cybersecurity Analyst",
+      "company_name": "SecureTech Solutions",
+      "location": "Washington, D.C.",
+      "job_type": "Contract",
+      "remote_or_onsite": "Onsite",
+      "salary": "$60 - $80 per hour",
+      "job_description": "We are seeking a skilled cybersecurity analyst to join our team...",
+      "job_responsibility": [
+        "Plan and implement security measures to protect computer systems, networks, and data",
+        "Stay up-to-date on information technology trends and security standards",
+        "Perform regular security assessments and penetration tests",
+        "Investigate security breaches and other cybersecurity incidents",
+        "Develop security policies and procedures"
+      ],
+      "educational_requirement": "Bachelor’s degree in Computer Science, Cybersecurity, or related field",
+      "experience": "2+ years of experience in cybersecurity or related field",
+      "contact_information": {
+        "Phone": "+1 (345) 678-9012",
+        "email": "info@securetech.com",
+        "Address": "789 Oak St, Washington, D.C."
+      }
+    },
+    {
+      "Id": 4,
+      "logo": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6011706aa3425300017d7517/0x0.png",
+      "job_title": "Frontend Developer",
+      "company_name": "WebTech Solutions",
+      "location": "Seattle, WA",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Remote",
+      "salary": "$70,000 - $90,000 per year",
+      "job_description": "We are looking for a talented frontend developer to join our team and help create engaging web experiences...",
+      "job_responsibility": [
+        "Develop user-friendly web pages using HTML, CSS, and JavaScript",
+        "Collaborate with back-end developers and web designers to improve usability",
+        "Optimize applications for maximum speed and scalability",
+        "Ensure cross-browser compatibility and responsive design",
+        "Stay updated on emerging technologies and best practices"
+      ],
+      "educational_requirement": "Bachelor’s degree in Computer Science or related field",
+      "experience": "2+ years of experience in frontend development",
+      "contact_information": {
+        "Phone": "+1 (123) 456-7890",
+        "email": "jobs@webtechsolutions.com",
+        "Address": "123 Tech Ave, Seattle, WA"
+      }
+    },
+    {
+      "Id": 5,
+      "logo": "https://static1.squarespace.com/static/5432d43de4b04e2bb3ff06df/t/5432d893e4b0a7d01075b5e9/1709320913693/",
+      "job_title": "Database Administrator",
+      "company_name": "DataWorks Inc.",
+      "location": "Chicago, IL",
+      "job_type": "Contract",
+      "remote_or_onsite": "Remote",
+      "salary": "$50 - $60 per hour",
+      "job_description": "DataWorks Inc. is seeking a skilled database administrator to manage and maintain our databases...",
+      "job_responsibility": [
+        "Install and configure database software and servers",
+        "Monitor system performance and troubleshoot issues",
+        "Ensure data security and integrity",
+        "Develop and implement backup and recovery plans",
+        "Optimize database performance and capacity planning"
+      ],
+      "educational_requirement": "Bachelor’s degree in Information Technology or related field",
+      "experience": "3+ years of experience as a database administrator",
+      "contact_information": {
+        "Phone": "+1 (234) 567-8901",
+        "email": "careers@dataworks.com",
+        "Address": "456 Data St, Chicago, IL"
+      }
+    },
+    {
+      "Id": 6,
+      "logo": "https://www.securitysales.com/wp-content/uploads/2018/08/IPConnect_MKS.jpg",
+      "job_title": "Network Engineer",
+      "company_name": "NetConnect Solutions",
+      "location": "Austin, TX",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Onsite",
+      "salary": "$80,000 - $100,000 per year",
+      "job_description": "We are seeking a network engineer to design, implement, and maintain our organization's network infrastructure...",
+      "job_responsibility": [
+        "Design and deploy functional networks (LAN, WLAN, WAN)",
+        "Configure and install software, servers, routers, and other network devices",
+        "Monitor network performance and troubleshoot issues",
+        "Secure network systems with firewalls, VPNs, and other security measures",
+        "Collaborate with vendors and other IT personnel for problem resolution"
+      ],
+      "educational_requirement": "Bachelor’s degree in Computer Science, Information Technology, or related field",
+      "experience": "3+ years of experience in network engineering",
+      "contact_information": {
+        "Phone": "+1 (345) 678-9012",
+        "email": "info@netconnectsolutions.com",
+        "Address": "789 Net St, Austin, TX"
+      }
+    }
+  ]
+}
